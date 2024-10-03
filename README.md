@@ -1,3 +1,3 @@
 # Demo1
 This is my first project.
-<p>Git and Gitub</p>
+<p>Git and Github</p>
